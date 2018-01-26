@@ -1,4 +1,6 @@
 #!/usr/bin/perl -w
+## written by Paul Hohenlohe (hohenlohe@uidaho.edu)
+
 use strict; use warnings;
 
 my $b = 8;			# set barcode length (Hohenlohe lab 2015 bestRAD barcodes are 8bp)
